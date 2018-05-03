@@ -1,7 +1,7 @@
 <xui>
 <!-- S420 Start -->
 	<!--ruleset name="default" scale="1.255" stackpanel_scale="1.05"--> <!--Stock-->
-	<ruleset name="default" scale="1.10" stackpanel_scale="1.00">
+	<ruleset name="default" scale="1.10" stackpanel_scale="0.95">
 <!-- S420 End -->
 		<window_group name="crafting" controller="XUiC_CraftingWindowGroup">
 			<window name="windowCraftingList"/>
